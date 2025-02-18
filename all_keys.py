@@ -1,0 +1,2 @@
+groq_api_key = "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"
+gemini_api_key = 'AIzaSyBVyNCqJbryteSuP4JqWdjXrOGb8dgWLYQ'
